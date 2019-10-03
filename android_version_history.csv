@@ -1,0 +1,19 @@
+Codename,Versionnumber,Linux kernelversion[1],Initial releasedate,APIlevel,Ref.
+Astroi,Old version, no longer supported: 1.0,2.1 September 23, 200,1,[2]
+Petit Fou,Old version, no longer supported: 1.1,2.6 February 9, 200,2,[2]
+Cupcak,Old version, no longer supported: 1.5,2.6.2 April 27, 200,3,
+Donu,Old version, no longer supported: 1.6,2.6.2,September 15, 200,4,[3]
+Eclai,Old version, no longer supported: 2.0 – 2.1,2.6.2,October 26, 200,5 – 7,[4]
+Froy,Old version, no longer supported: 2.2 – 2.2.3,2.6.3,May 20, 201,8,[5]
+Gingerbrea,Old version, no longer supported: 2.3 – 2.3.7,2.6.3,December 6, 201,9 – 10,[6]
+Honeycom,Old version, no longer supported: 3.0 – 3.2.6,2.6.3,February 22, 201,11 – 13,[7]
+Ice Cream Sandwic,Old version, no longer supported: 4.0 – 4.0.4,3.0.,October 18, 201,14 – 15,[8]
+Jelly Bea,Old version, no longer supported: 4.1 – 4.3.1,3.0.31 - 3.4.3,July 9, 201,16 – 18,[9]
+KitKa,Old version, no longer supported: 4.4 – 4.4.4,3.1,October 31, 201,19 – 20,[10]
+Lollipo,Old version, no longer supported: 5.0 – 5.1.1,3.1,November 12, 201,21 – 22,[11]
+Marshmallo,Old version, no longer supported: 6.0 – 6.0.1,3.1,October 5, 201,23,[12]
+Nouga,Older version, yet still supported: 7.0 – 7.1.2,4.,August 22, 201,24 – 25,[13]
+Ore,Older version, yet still supported: 8.0 – 8.1,4.1,August 21, 201,26 – 27,[14]
+Pi,Current stable version: 9.,4.4.107, 4.9.84, and 4.14.4,August 6, 201,28,[15]
+,Latest preview version of a future release: 10.,,,2,
+Legend:Old versionOlder version, still supportedLatest versionLatest preview versionFuture release
